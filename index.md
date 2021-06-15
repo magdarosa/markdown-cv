@@ -73,7 +73,7 @@ __Computer Technician__, ETEC Polivalente Americana – SP – Brazil
 ## Volunteer work
 
 `August 2020 - Present date`
-__Coach of Brazilian Jiu Jitsu for kids, Sorriso BJJ - Auckland, New Zealand
+__Coach of Brazilian Jiu Jitsu for kids__, Sorriso BJJ - Auckland, New Zealand
 
 ## References
 Available upon request.
