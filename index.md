@@ -29,7 +29,7 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
 
-- Worked with a wide and diverse range of clients from huge financial institutions to disruptive and innovative startups, some of them include: Westpac, ASB, CommonWealth Bank of Australia, Mercury, GoodNature, Chnnl and Australian Government. 
+- Worked closely with a wide and diverse range of clients from major financial institutions to innovative startups, some of them included Westpac, ASB, CommonWealth Bank of Australia, Mercury, GoodNature, Chnnl and Australian Government.
 
 - Develop and maintain backend applications using NodeJS, NestJS and PostgreSQL.
 
