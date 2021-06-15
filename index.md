@@ -3,8 +3,7 @@ layout: cv
 title: Bruno I. Pedrosa 
 ---
 # Bruno I. Pedrosa
-Creative, dedicated, and accomplished programmer with a proven track record of success in developing customised applications according to business needs. I am a software engineer proficient in wide spectrum of technologies and languages. I'm someone with positive attitude that loves to make people's life better through the usage of my problem-solving skills, creativity and technical skills. 
-
+I am a dedicated programmer with ten years’ experience in developing customised applications for a wide range of clients. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
 
 <div id="webaddress">
 <a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
