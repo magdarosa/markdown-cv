@@ -86,8 +86,8 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 10%;
+	width: 80%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -130,12 +130,13 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
+    margin-top: .75em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #26b63b;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -189,6 +190,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
