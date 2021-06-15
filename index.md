@@ -37,25 +37,29 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 `October 2014 – November 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
-- Analysis, creation and development of software using ASP.NET, C#, WCF, Web API, Bootstrap, SQL Server, SSRS, GIT and Azure.
+- Worked on the school management system, student portal and the integration of them with the student mobile app, developing frontend and backend code. Some of the technologies included  C#, ASP.Net MVC 5, Web API 2, Microsoft SQL Server, HTML5, CSS3, Angular, JSON, Azure. 
 
-- Requirement gathering and client interfacing.
+- Migrated all applications, SSRS reports, automated scripts and database from an inhouse server to Microsoft Azure.
 
-- Responsible for integration of systems using Web API and WCF.
+- Was responsale for requirement gathering and client interfacing.
+
 
 `August 2011 – August 2014`
 __Full Stack .Net Software Developer__, CI&T Software S.A, São Paulo, Brasil
 
-- CI&T is one of the largest software outsourcing companies in Brazil and  is rated as one of the best places to work in Brazil since 2006, according to the GPTW Institute. 
+- Worked with a wide range of international market leading companies,  some of them included: TetraPak,  Procter & Gamble and Qualicorp.
 
-- Technologies: C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView, SSL Certificates.
+- Developed and maintained code using C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView
 
 `June 2009– August 2011`
 __Web Developer__, Desktop Internet Services, São Paulo, Brasil
 
-- As a Web Developer, I built custom technical solutions and completed agile projects to fit business needs. I was also involved in application support, requirements gathering, software prototypes demonstrating and customer training. 
+- Responsible for gathering requirements and brainstorming with product owners in order to design software that fits their needs.
 
-- Technologies: Java, Servlets, JSP, HTML, CSS, JavaScript, JQuery and MySQL
+- Architected, developed and maintained internal systems using Java, Servlets, JSP, PHP, HTML, CSS, JavaScript, JQuery and MySQL.
+
+- Responsable for user training. 
+
 
 ## Education
 
