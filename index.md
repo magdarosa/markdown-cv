@@ -11,82 +11,61 @@ Creative, dedicated, and accomplished programmer with a proven track record of s
 | +640277665516
 </div>
 
-
 ## Skills
 
-Standing on the shoulders of giants
+`Backend`
+__Royal Mint__, London
 
-### Specialized in
+`Database`
+__Lucasian professor of Mathematics__, Cambridge University
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Cloud`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`May 2017 - Present Date`
+__Backend Developer__, Roam Digital - Auckland, New Zealand
 
+- Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
+- Worked with a wide and diverse range of clients from huge financial institutions to disruptive and innovative startups, some of them include: Westpac, ASB, CommonWealth Bank of Australia, Mercury, GoodNature, Chnnl and Australian Government. 
+- Develop and maintain backend applications using NodeJS, NestJS and PostgreSQL.
+- Microservices using AWS lambda, DynamoDB and cognito.
+- Database conception and modeling using PostgreSQL and DynamoDB.
+- Architecture of backend applications.
+- AWS cloud technologies and Azure.
+
+`October 2014 – November 2016`
+__Full Stack .Net Software Developer__, Australian Pacific College - Sydney, Australia.
+- Analysis, creation and development of software using ASP.NET, C#, WCF, Web API, Bootstrap, SQL Server, SSRS, GIT and Azure.
+- Requirement gathering and client interfacing.
+- Responsible for integration of systems using Web API and WCF.
+
+`August 2011 – August 2014`
+__Full Stack .Net Software Developer__, CI&T Software S.A. - São Paulo, Brasil
+CI&T is one of the largest software outsourcing companies in Brazil and  is rated as one of the best places to work in Brazil since 2006, according to the GPTW Institute. 
+- Technologies: C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView, SSL Certificates.
+
+`June 2009– August 2011`
+__Web Developer__, Desktop Internet Services - São Paulo, Brasil
+As a Web Developer, I built custom technical solutions and completed agile projects to fit business needs. I was also involved in application support, requirements gathering, software prototypes demonstrating and customer training. 
+- Technologies: Java, Servlets, JSP, HTML, CSS, JavaScript, JQuery and MySQL
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`January 2008 -  June 2012`
+__Bachelor in Systems Analysis (Honors)__, Faculdade de Tecnologia de São Paulo – FATEC – Brazil
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`June 2006 – December 2007`
+__Computer Technician__, ETEC Polivalente Americana – SP – Brazil
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## References
+Available upon request.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jun 2021 -->
 
 
