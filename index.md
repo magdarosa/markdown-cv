@@ -1,17 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bruno I. Pedrosa 
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bruno Pedrosa
+Creative, dedicated, and accomplished programmer with a proven track record of success in developing customized applications according to business needs. I am a software engineer proficient in wide spectrum of technologies and languages. I'm somone with positive attitude that loves to make other people's life better using my creativity and skills. 
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
+| +640277665516
 </div>
 
 
-## Currently
+## Skills
 
 Standing on the shoulders of giants
 
