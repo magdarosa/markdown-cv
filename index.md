@@ -3,7 +3,7 @@ layout: cv
 title: Bruno I. Pedrosa 
 ---
 # Bruno Pedrosa
-Creative, dedicated, and accomplished programmer with a proven track record of success in developing customized applications according to business needs. I am a software engineer proficient in wide spectrum of technologies and languages. I'm somone with positive attitude that loves to make people's life better through the usage of my problem-solving, creativity and technical skills. 
+Creative, dedicated, and accomplished programmer with a proven track record of success in developing customised applications according to business needs. I am a software engineer proficient in wide spectrum of technologies and languages. I'm someone with positive attitude that loves to make people's life better through the usage of my problem-solving, creativity and technical skills. 
 
 
 <div id="webaddress">
@@ -14,14 +14,13 @@ Creative, dedicated, and accomplished programmer with a proven track record of s
 ## Skills
 
 `Backend`
-__Royal Mint__, London
+Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
 
 `Database`
-__Lucasian professor of Mathematics__, Cambridge University
+Expertise in database conception and modeling includes: PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Proficiency in AWS cloud technologies and Azure.
 
 ## Experience
 
