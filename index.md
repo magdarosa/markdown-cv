@@ -2,7 +2,7 @@
 layout: cv
 title: Bruno I. Pedrosa 
 ---
-# Bruno Pedrosa
+# Bruno I. Pedrosa
 Creative, dedicated, and accomplished programmer with a proven track record of success in developing customised applications according to business needs. I am a software engineer proficient in wide spectrum of technologies and languages. I'm someone with positive attitude that loves to make people's life better through the usage of my problem-solving, creativity and technical skills. 
 
 
@@ -42,7 +42,7 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 - AWS cloud technologies and Azure.
 
 `October 2014 – November 2016`
-__Full Stack .Net Software Developer__, Australian Pacific College - Sydney, Australia.
+__Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
 - Analysis, creation and development of software using ASP.NET, C#, WCF, Web API, Bootstrap, SQL Server, SSRS, GIT and Azure.
 
@@ -51,16 +51,16 @@ __Full Stack .Net Software Developer__, Australian Pacific College - Sydney, Aus
 - Responsible for integration of systems using Web API and WCF.
 
 `August 2011 – August 2014`
-__Full Stack .Net Software Developer__, CI&T Software S.A. - São Paulo, Brasil
+__Full Stack .Net Software Developer__, CI&T Software S.A, São Paulo, Brasil
 
-CI&T is one of the largest software outsourcing companies in Brazil and  is rated as one of the best places to work in Brazil since 2006, according to the GPTW Institute. 
+- CI&T is one of the largest software outsourcing companies in Brazil and  is rated as one of the best places to work in Brazil since 2006, according to the GPTW Institute. 
 
 - Technologies: C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView, SSL Certificates.
 
 `June 2009– August 2011`
-__Web Developer__, Desktop Internet Services - São Paulo, Brasil
+__Web Developer__, Desktop Internet Services, São Paulo, Brasil
 
-As a Web Developer, I built custom technical solutions and completed agile projects to fit business needs. I was also involved in application support, requirements gathering, software prototypes demonstrating and customer training. 
+- As a Web Developer, I built custom technical solutions and completed agile projects to fit business needs. I was also involved in application support, requirements gathering, software prototypes demonstrating and customer training. 
 
 - Technologies: Java, Servlets, JSP, HTML, CSS, JavaScript, JQuery and MySQL
 
