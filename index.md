@@ -30,15 +30,9 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Worked closely with a wide and diverse range of clients from major financial institutions to innovative startups, some of them included Westpac, ASB, CommonWealth Bank of Australia, Mercury, GoodNature, Chnnl and Australian Government.
 
-- Develop and maintain backend applications using NodeJS, NestJS and PostgreSQL.
+- Conceived and developed a serverless solution for the Australian Government using AWS lambda, DynamoDB and cognito.
 
-- Microservices using AWS lambda, DynamoDB and cognito.
-
-- Database conception and modeling using PostgreSQL and DynamoDB.
-
-- Architecture of backend applications.
-
-- AWS cloud technologies and Azure.
+- Conceived, developed and maintained diverse backend applications using NodeJS, NestJS and PostgreSQL.
 
 `October 2014 – November 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
