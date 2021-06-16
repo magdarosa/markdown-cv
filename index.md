@@ -7,7 +7,7 @@ I am a software developer with experience in creating and developing web applica
 
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
-| +640277665516
+| +64 021 235 8724
 </div>
 
 ## Skills
