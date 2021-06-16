@@ -3,10 +3,10 @@ layout: cv
 title: Magda Sharon Okumura Rosa
 ---
 # Magda Sharon Okumura Rosa
-I am a dedicated programmer with ten years of experience in developing customised applications for a wide range of clients. As a software engineer, I am proficient in a broad spectrum of technologies and languages. With my creativity, problem-solving and technical skills, I love helping people to find efficient solutions.
+I am a software developer with experience in creating and developing web applications, analysing systems and creating documentation. I have experience with full lifecycle development of a software, from initial requirement gathering to design, coding, testing, documentation and implementation. 
 
 <div id="webaddress">
-<a href="bruno.isau.pedrosa@gmail.com">bruno.isau.pedrosa@gmail.com</a>
+<a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
 | +640277665516
 </div>
 
@@ -19,12 +19,12 @@ Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web AP
 Expertise in database conception and modeling includes: PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-Proficiency in AWS cloud technologies and Azure.
+Basic in AWS cloud technologies and Azure.
 
 ## Experience
 
 `May 2017 - Present Date`
-__Backend Developer__, Roam Digital, Auckland, New Zealand
+__Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
 
@@ -34,46 +34,123 @@ __Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Conceived, developed and maintained diverse backend applications using NodeJS, NestJS and PostgreSQL.
 
-`October 2014 – November 2016`
+`November 2016 – July 2017`
+__Consultant__, Australian Pacific College, Sydney, Brazil.
+
+- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
+
+- Resolution of incidents/problems around the information systems.
+
+- Enhancements to the TEAMS and AIMS information systems.
+
+- Development of specific projects determined by the college.
+
+- Specification analysis and documentation.
+
+- Providing support for IT team members with business expertise.
+
+
+`April 2016 – November 2016`
+__Team Leader__, Australian Pacific College, Sydney, Australia.
+
+- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
+
+- Requirement gathering and client interfacing.
+
+- Specification analysis and documentation.
+
+- Review current operations and recommend ways to improve or replace operations using digital means. This involves analysing existing operations.
+
+- Manage implementation of projects.
+
+- Supervise and manage the Digital Solutions and IT Team
+
+- Supervise TEAMS support and AIMS support Functions
+
+- Provide digital solutions to improve efficiency and productivity in all areas of the company.
+
+- Ensure all key functions and responsibilities are documented and be aware of how to take on the functions or responsibilities or duties if required.
+
+- Assist with Software development as required.
+
+- Supervise and manage IT Helpdesk tickets progress.
+
+- Liaise and manage external Digital Solutions suppliers and contractors.
+
+- Responsible for recruitment process for IT team which includes developing job descriptions, interviews and the selection of candidates.
+
+
+
+`October 2014 – April 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
-- Worked on the school management system, student portal and the integration of them with the student mobile app, developing frontend and backend code. Some of the technologies included  C#, ASP.Net MVC 5, Web API 2, Microsoft SQL Server, HTML5, CSS3, Angular, JSON, Azure. 
+- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
 
-- Migrated all applications, SSRS reports, automated scripts and database from an inhouse server to Microsoft Azure.
+- Requirement gathering and client interfacing.
 
-- Was responsale for requirement gathering and client interfacing.
+- Specification analysis and documentation.
 
 
-`August 2011 – August 2014`
-__Full Stack .Net Software Developer__, CI&T Software S.A, São Paulo, Brasil
 
-- Worked with a wide range of international market leading companies,  some of them included: TetraPak,  Procter & Gamble and Qualicorp.
+`July 2008 – November 2011`
+__Web Programmer__, Magna Sistemas, Sao Paulo - Brazil
 
-- Developed and maintained code using C#, ASP.Net MVC 4.0, jQuery, WCF, SQL Server 2008, JSON, Objective-C, QlikView
+- Web software development and maintenance utilising ASP.NET, C#, NHibernate, JQuery, XML and Oracle.
+
+- Requirement gathering and client interfacing.
+
+- Allocated in client called CPTM - Companhia Paulista de Trens Metropolitanos.
+
+
 
 `June 2009– August 2011`
-__Web Developer__, Desktop Internet Services, São Paulo, Brasil
+__Web Developer__, CPM Braxis Capgemini, São Paulo, Brazil
 
-- Responsible for gathering requirements and brainstorming with product owners in order to design software that fits their needs.
+- Creation and development of web software using ASP.NET, C# and Entity framework and Oracle.
 
-- Architected, developed and maintained internal systems using Java, Servlets, JSP, PHP, HTML, CSS, JavaScript, JQuery and MySQL.
+- Maintenance of web sites and web applications.
 
-- Responsable for user training. 
+- Report creation using Crystal Reports.
+
+- First Level Tests.
+
+- Intranet maintenance and web software modifications.
+
+- Requirement gathering and client interfacing.
+
+- Specification analysis and documentation.
+
+
+
+`September 2007 – July 2008`
+__Programmer__, EVOLUTI Technology and Service Ltda., Sao Paulo - Brazil
+
+- Web software development and maintenance utilising ASP, Javascript , XML and Sql.
+
+- Development of a system that controls projects utilising ASP, Javascript and Sql.
+
+- Software testing using test guides and documentation.
+
 
 
 ## Education
 
-`January 2008 -  June 2012`
-__Bachelor in Systems Analysis (Honors)__, Faculdade de Tecnologia de São Paulo – FATEC – Brazil
+`January 2008 -  December 2011`
+__Bachelor of IT, Major in Information Systems__, Universidade Anhembi Morumbi – Brazil
 
-`June 2006 – December 2007`
-__Computer Technician__, ETEC Polivalente Americana – SP – Brazil
+`January 2008 -  December 2011`
+__Tertiary Course of Specific Qualification in Database Development__, Universidade Anhembi Morumbi – Brazil
+
+`June 2003 – December 2006`
+__Technical Course in Data Processing __, FITO Fundação Instituto Tecnológico de Osasco  – Brazil
 
 
-## Volunteer work
+## Languages
 
-`August 2020 - Present date`
-__Coach of Brazilian Jiu Jitsu for kids__, Sorriso BJJ - Auckland, New Zealand
+__Portuguese__, Native
+__English__, Advanced
+__Spanish__, Basic
+
 
 ## References
 Available upon request.
