@@ -16,34 +16,35 @@ I am a software developer with experience in creating and developing web applica
 Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
 
 `Database`
-Expertise in database conception and modeling includes: PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
+PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-Basic in AWS cloud technologies and Azure.
+Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, CloudWatch, AWS AppSync, DynamoDB.
 
 ## Experience
 
-`May 2017 - Present Date`
+`August 2017 – Present`
 __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
-- Worked and launched the first open bank solution in NZ, which integrates all the major banks: ANZ, Westpac, Kiwibank, BNZ and ASB. 
+- Responsible for the development, support and maintenance of backend applications for clients.
 
-- Worked closely with a wide and diverse range of clients from major financial institutions to innovative startups, some of them included Westpac, ASB, CommonWealth Bank of Australia, Mercury, GoodNature, Chnnl and Australian Government.
+- Use frameworks, tools and development patterns, including Node.js, NestJS, AWS services, PostgreSQL.
 
-- Conceived and developed a serverless solution for the Australian Government using AWS lambda, DynamoDB and cognito.
+- Develop serverless solutions using GraphQL, AWS CDK, AWS lambda, DynamoDB for one of our clients.
 
-- Conceived, developed and maintained diverse backend applications using NodeJS, NestJS and PostgreSQL.
+- Write unit tests using Jest and Mocha.
+
+- Worked with a wide and diverse range of clients from innovative startups to financial institutions such as ASB, CommonWealth Bank of Australia and Westpac.
+
+- Member of backend council at ROAM. Responsibilities: Share best practices and knowledge across projects, recommend technologies and frameworks, help head of web and organise training and courses.
+
+
 
 `November 2016 – July 2017`
-__Consultant__, Australian Pacific College, Sydney, Brazil.
+__Consultant__, Australian Pacific College, Sao Paulo, Brazil.
+- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
 
-- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
-
-- Resolution of incidents/problems around the information systems.
-
-- Enhancements to the TEAMS and AIMS information systems.
-
-- Development of specific projects determined by the college.
+- Resolution of incidents/problems around our internal application.
 
 - Specification analysis and documentation.
 
@@ -53,25 +54,15 @@ __Consultant__, Australian Pacific College, Sydney, Brazil.
 `April 2016 – November 2016`
 __Team Leader__, Australian Pacific College, Sydney, Australia.
 
-- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
+- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
 
 - Requirement gathering and client interfacing.
 
 - Specification analysis and documentation.
 
-- Review current operations and recommend ways to improve or replace operations using digital means. This involves analysing existing operations.
-
-- Manage implementation of projects.
-
-- Supervise and manage the Digital Solutions and IT Team
-
-- Supervise TEAMS support and AIMS support Functions
+- Review current operations and recommend ways to improve or replace operations using digital means.
 
 - Provide digital solutions to improve efficiency and productivity in all areas of the company.
-
-- Ensure all key functions and responsibilities are documented and be aware of how to take on the functions or responsibilities or duties if required.
-
-- Assist with Software development as required.
 
 - Supervise and manage IT Helpdesk tickets progress.
 
@@ -84,7 +75,7 @@ __Team Leader__, Australian Pacific College, Sydney, Australia.
 `October 2014 – April 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
-- Creation and development  of web software utilising ASP.NET, C#, Bootstrap, WCF, Web API, jQuery and SQL Server, SSRS and Azure.
+- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
 
 - Requirement gathering and client interfacing.
 
@@ -92,29 +83,21 @@ __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Aust
 
 
 
-`July 2008 – November 2011`
+`May 2013 – July 2014`
 __Web Programmer__, Magna Sistemas, Sao Paulo - Brazil
 
-- Web software development and maintenance utilising ASP.NET, C#, NHibernate, JQuery, XML and Oracle.
+- Web software development and maintenance using ASP.NET, C#, NHibernate and Oracle.
 
 - Requirement gathering and client interfacing.
 
-- Allocated in client called CPTM - Companhia Paulista de Trens Metropolitanos.
 
 
+`July 2008 – November 2011`
+__Web Developer__, CPM Braxis Capgemini, Sao Paulo, Brazil
 
-`June 2009– August 2011`
-__Web Developer__, CPM Braxis Capgemini, São Paulo, Brazil
-
-- Creation and development of web software using ASP.NET, C# and Entity framework and Oracle.
-
-- Maintenance of web sites and web applications.
+- Development of web software using ASP.NET, C# and Entity framework and Oracle.
 
 - Report creation using Crystal Reports.
-
-- First Level Tests.
-
-- Intranet maintenance and web software modifications.
 
 - Requirement gathering and client interfacing.
 
@@ -125,9 +108,9 @@ __Web Developer__, CPM Braxis Capgemini, São Paulo, Brazil
 `September 2007 – July 2008`
 __Programmer__, EVOLUTI Technology and Service Ltda., Sao Paulo - Brazil
 
-- Web software development and maintenance utilising ASP, Javascript , XML and Sql.
+- Web software development and maintenance utilising ASP, Javascript, XML and Microsoft SQL Server.
 
-- Development of a system that controls projects utilising ASP, Javascript and Sql.
+- Development of a system that controls projects utilising ASP, Javascript and Microsoft SQL Server.
 
 - Software testing using test guides and documentation.
 
