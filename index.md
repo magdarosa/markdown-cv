@@ -36,7 +36,7 @@ __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Write unit tests using Jest and Mocha.
 
-- Worked with a wide and diverse range of clients from innovative startups to financial institutions such as ASB, CommonWealth Bank of Australia and Westpac.
+- Work with a wide and diverse range of clients from innovative startups to financial institutions such as ASB, CommonWealth Bank of Australia and Westpac.
 
 - Member of backend council at ROAM. Responsibilities: Share best practices and knowledge across projects, recommend technologies and frameworks, help head of web and organise training and courses.
 
