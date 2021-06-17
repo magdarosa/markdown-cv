@@ -10,7 +10,10 @@ I am a software engineer with experience in developing applications for a divers
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
 | +64 021 235 8724
+| <a href="https://www.linkedin.com/in/magdasharon">https://www.linkedin.com/in/magdasharon</a>
 </div>
+
+
 
 ## Skills
 
