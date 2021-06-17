@@ -128,11 +128,29 @@ __Tertiary Course of Specific Qualification in Database Development__, Universid
 __Technical Course in Data Processing __, FITO Fundação Instituto Tecnológico de Osasco  – Brazil
 
 
+
+## Courses
+
+`July 2018 - July 2018`
+__AWS Technical Essentials__, Auckland, New Zealand
+
+`August 2008 – August 2008`
+__Net C#	/ Xtraining Academy CPMBraxis__, Sao Paulo  – Brazil
+
+`June 2008 – July 2008`
+__Java for Web Development  / Caelum__, Sao Paulo  – Brazil
+
+` March 2008 – May 2008`
+__Java Programmer  / Impact Tecnologia__, Sao Paulo  – Brazil
+
+
+
 ## Languages
 
 __Portuguese__, Native
 __English__, Advanced
 __Spanish__, Basic
+
 
 
 ## References
