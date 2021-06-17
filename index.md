@@ -3,7 +3,9 @@ layout: cv
 title: Magda Sharon Okumura Rosa
 ---
 # Magda Sharon Okumura Rosa
-I am a software developer with experience in creating and developing web applications, analysing systems and creating documentation. I have experience with full lifecycle development of a software, from initial requirement gathering to design, coding, testing, documentation and implementation. 
+I am a software engineer with experience in developing applications for a diverse range of clients. With extensive experience working in an Agile development environment, I thrive on building innovative applications using best practices, design thinking concept, solutions and technologies that work best to the goals of the project. I love helping to design innovative solutions to dynamic problems, improving flows, helping people and providing experiences that change way of doing things.
+
+ 
 
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
