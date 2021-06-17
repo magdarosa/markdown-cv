@@ -140,7 +140,7 @@ __Net C#__, Xtraining Academy CPMBraxis - Sao Paulo  – Brazil
 `June 2008 – July 2008`
 __Java for Web Development__, Caelum - Sao Paulo  – Brazil
 
-` March 2008 – May 2008`
+`March 2008 – May 2008`
 __Java Programmer__, Impact Tecnologia - Sao Paulo  – Brazil
 
 
