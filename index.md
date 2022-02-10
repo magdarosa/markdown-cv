@@ -115,8 +115,6 @@ __Programmer__, EVOLUTI Technology and Service Ltda., Sao Paulo - Brazil
 
 - Web software development and maintenance utilising ASP, Javascript, XML and Microsoft SQL Server.
 
-- Development of a system that controls projects utilising ASP, Javascript and Microsoft SQL Server.
-
 - Software testing using test guides and documentation.
 
 
