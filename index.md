@@ -18,13 +18,13 @@ I am a software engineer with experience in developing applications for a divers
 ## Skills
 
 `Backend`
-Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
+Node.js, NestJs, Typescript, .NET Core, C#, ASP.NET, WCF, Web API, Web Services, Entity Framework, LINQ.
 
 `Database`
-PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
+PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle, MySQL.
 
 `Cloud`
-Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, CloudWatch, AWS AppSync, DynamoDB.
+Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, Appsync, CloudWatch, AWS AppSync, DynamoDB, Secrets Manager.
 
 ## Experience
 
@@ -33,7 +33,7 @@ __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Responsible for the development, support and maintenance of backend applications for clients.
 
-- Use frameworks, tools and development patterns, including Node.js, NestJS, AWS services, PostgreSQL.
+- Use frameworks, tools and development patterns, including Node.js, NestJS, .net Core, AWS services, PostgreSQL and MySQL.
 
 - Develop serverless solutions using GraphQL, AWS CDK, AWS lambda, DynamoDB for one of our clients.
 
