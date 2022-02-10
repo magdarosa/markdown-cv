@@ -18,10 +18,10 @@ I am a software engineer with experience in developing applications for a divers
 ## Skills
 
 `Backend`
-Node.js, NestJs, Typescript, .NET Core, C#, ASP.NET, WCF, Web API, Web Services, Entity Framework, LINQ.
+Node.js, NestJs, AWS Serverless, Typescript, .NET Core, C#, ASP.NET, WCF, Web API, Web Services, LINQ, Entity Framework.
 
 `Database`
-PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle, MySQL.
+PostgreSQL, DynamoDB, Oracle, Microsoft SQL Server, MySQL.
 
 `Cloud`
 Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, Appsync, CloudWatch, AWS AppSync, DynamoDB, Secrets Manager.
