@@ -19,7 +19,7 @@ Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web AP
 PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, CloudWatch, AWS AppSync, DynamoDB.
+Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, CloudWatch, AWS AppSync, DynamoDB .
 
 ## Experience
 
