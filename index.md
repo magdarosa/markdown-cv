@@ -23,7 +23,15 @@ Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormat
 
 ## Experience
 
-`August 2017 – Present`
+`May 2022 – Present`
+__Senior Backend Engineer__, EquipmentShare, Auckland, New Zealand
+
+- Responsible for the development, support and maintenance of serverless backend applications to support business functions for billing, using Node.js, NestJS (Typescript), AWS services and PostgreSQL.
+
+- Collaborate with teammates to deliver high quality solutions, share best practices and knowledge across teams, recommend technologies and frameworks.
+
+
+`August 2017 – March 2022`
 __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
 - Responsible for the development, support and maintenance of backend applications for clients.
