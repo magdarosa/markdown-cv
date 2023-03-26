@@ -26,7 +26,9 @@ Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormat
 `May 2022 – Present`
 __Senior Backend Engineer__, EquipmentShare, Auckland, New Zealand
 
-- Responsible for the development, support and maintenance of serverless backend applications to support business functions for billing, using Node.js, NestJS (Typescript), AWS services and PostgreSQL.
+- Responsible for the development, support and maintenance of serverless backend applications to support business functions for our billing app, using Node.js, NestJS (Typescript), AWS services and PostgreSQL.
+
+- Create Serveless workflow with AWS step functions for our billing app.
 
 - Collaborate with teammates to deliver high quality solutions, share best practices and knowledge across teams, recommend technologies and frameworks.
 
