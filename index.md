@@ -28,7 +28,7 @@ Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormat
 
 ## Experience
 
-`May 2022 – Present`
+`May 2022 – May 2023`
 __Senior Backend Engineer__, EquipmentShare, Auckland, New Zealand
 
 - Responsible for the development, support and maintenance of serverless backend applications to support business functions for our billing app, using Node.js, NestJS (Typescript), AWS services and PostgreSQL.
