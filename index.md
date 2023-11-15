@@ -23,6 +23,16 @@ Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormat
 
 ## Experience
 
+
+`Aug 2023 – Present`
+__Senior Backend Engineer__, Immersve, Auckland, New Zealand
+
+- Responsible for the development, support, and maintenance of backend applications using Node.js, AWS services, Cucumber, Docker, and Terraform.
+  
+- Participate in the creation of high-level designs.
+
+- Collaborate to seek out ideas and suggestions regarding tools, procedures, and improvements, including best practices, and to recommend technologies and frameworks.
+
 `May 2022 – May 2023`
 __Senior Backend Engineer__, EquipmentShare, Auckland, New Zealand
 
