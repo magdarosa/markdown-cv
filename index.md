@@ -82,7 +82,7 @@ __Team Leader__, Australian Pacific College, Sydney, Australia.
 
 - Manage IT Helpdesk ticket progress and oversee external digital solution providers.
 
-= Handle IT team recruitment, including job descriptions, interviews, and candidate selection.
+- Handle IT team recruitment, including job descriptions, interviews, and candidate selection.
 
 
 
