@@ -3,7 +3,7 @@ layout: cv
 title: Magda Sharon Okumura Rosa
 ---
 # Magda Sharon Okumura Rosa
-Experienced software developer with a strong background in designing, developing, and maintaining web applications. Skilled in full software development lifecycle, from requirement gathering to design, coding, testing, documentation, and implementation. Passionate about delivering scalable and efficient backend solutions.
+Experienced software developer with a strong background in designing, developing, and maintaining web applications. Skilled in full software development lifecycle, from requirement gathering to design, coding, testing, documentation, and implementation. Passionate about delivering scalable and efficient backend solutions. 
 
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
