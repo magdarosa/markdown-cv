@@ -3,7 +3,7 @@ layout: cv
 title: Magda Sharon Okumura Rosa
 ---
 # Magda Sharon Okumura Rosa
-I am a software developer with experience in creating and developing web applications, analysing systems and creating documentation. I have experience with full lifecycle development of a software, from initial requirement gathering to design, coding, testing, documentation and implementation. 
+Experienced software developer with a strong background in designing, developing, and maintaining web applications. Skilled in full software development lifecycle, from requirement gathering to design, coding, testing, documentation, and implementation. Passionate about delivering scalable and efficient backend solutions.
 
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
@@ -13,126 +13,107 @@ I am a software developer with experience in creating and developing web applica
 ## Skills
 
 `Backend`
-Node.js, NestJs, Typescript, C#, ASP.NET (Classic Webforms and MVC), WCF, Web API, Web Services, Entity Framework, LINQ.
+Node.js, NestJs, Typescript, C#, ASP.NET.
 
 `Database`
 PostgreSQL, DynamoDB, Microsoft SQL Server, Oracle Database.
 
 `Cloud`
-Azure and AWS cloud services including AWS CDK, Lambda, S3, Cognito, CloudFormation, CloudWatch, AWS AppSync, DynamoDB.
+Azure and AWS (Lambda, S3, Cognito, CloudFormation, CloudWatch, AppSync, CDK, DynamoDB).
 
 ## Experience
 
+`Jan 2025 – Present`
+__Backend Tech Lead, Smartpay Limited, Auckland, New Zealand
 
-`Aug 2023 – Present`
+- Lead backend development efforts for Smartpay's digital platform, ensuring scalability and performance.
+
+- Design, develop, and maintain backend applications using Node.js and AWS services.
+
+- Collaborate with cross-functional teams to implement and optimize backend services.
+
+`Aug 2023 – Dec 2024`
 __Senior Backend Engineer__, Immersve, Auckland, New Zealand
 
-- Responsible for the development, support, and maintenance of backend applications using Node.js, AWS services, Cucumber, Docker, and Terraform.
+- Develop and maintain backend applications using Node.js, AWS services, Cucumber, Docker, and Terraform.
   
-- Participate in the creation of high-level designs.
+- Participate in high-level designs and architectural decisions.
 
 - Collaborate to seek out ideas and suggestions regarding tools, procedures, and improvements, including best practices, and to recommend technologies and frameworks.
 
 `May 2022 – May 2023`
 __Senior Backend Engineer__, EquipmentShare, Auckland, New Zealand
 
-- Responsible for the development, support and maintenance of serverless backend applications to support business functions for our billing app, using Node.js, NestJS (Typescript), AWS services and PostgreSQL.
+- Build and maintain serverless backend applications supporting billing functions using Node.js, NestJS, AWS services, and PostgreSQL.
 
-- Create Serveless workflow with AWS step functions for our billing app.
+- Create Serveless workflow with AWS step functions for the billing app.
 
-- Collaborate with teammates to deliver high quality solutions, share best practices and knowledge across teams, recommend technologies and frameworks.
+- Collaborate with teams to ensure best practices and knowledge sharing.
 
 
 `August 2017 – March 2022`
 __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 
-- Responsible for the development, support and maintenance of backend applications for clients.
+- Develop backend solutions for clients using Node.js, NestJS, AWS services, and PostgreSQL.
 
-- Use frameworks, tools and development patterns, including Node.js, NestJS, AWS services, PostgreSQL.
+- Create serverless applications with GraphQL, AWS Lambda, and DynamoDB.
+  
+- Work with a wide and diverse range of clients from innovative startups to financial institutions such as ASB, CommonWealth Bank of Australia and Westpac.
 
-- Develop serverless solutions using GraphQL, AWS CDK, AWS lambda, DynamoDB for one of our clients.
-
-- Write unit tests using Jest and Mocha.
-
-- Worked with a wide and diverse range of clients from innovative startups to financial institutions such as ASB, CommonWealth Bank of Australia and Westpac.
-
-- Member of backend council at ROAM. Responsibilities: Share best practices and knowledge across projects, recommend technologies and frameworks, help head of web and organise training and courses.
-
+- Serve as a member of the backend council, mentoring and recommending technologies and best practices.
 
 
 `November 2016 – July 2017`
 __Consultant__, Australian Pacific College, Sao Paulo, Brazil.
-- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
 
-- Resolution of incidents/problems around our internal application.
+- Develop web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
 
-- Specification analysis and documentation.
+- Resolve incidents and system issues in internal applications.
 
-- Providing support for IT team members with business expertise.
+- Conduct specification analysis and documentation.
 
 
 `April 2016 – November 2016`
 __Team Leader__, Australian Pacific College, Sydney, Australia.
 
-- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
+- Lead the development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
 
-- Requirement gathering and client interfacing.
+- Conduct requirement gathering, client interfacing, and specification analysis.
 
-- Specification analysis and documentation.
+- Manage IT Helpdesk ticket progress and oversee external digital solution providers.
 
-- Review current operations and recommend ways to improve or replace operations using digital means.
-
-- Provide digital solutions to improve efficiency and productivity in all areas of the company.
-
-- Supervise and manage IT Helpdesk tickets progress.
-
-- Liaise and manage external Digital Solutions suppliers and contractors.
-
-- Responsible for recruitment process for IT team which includes developing job descriptions, interviews and the selection of candidates.
+= Handle IT team recruitment, including job descriptions, interviews, and candidate selection.
 
 
 
 `October 2014 – April 2016`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
-- Development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS and Azure.
+- Develop web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
 
-- Requirement gathering and client interfacing.
+- Conduct requirement gathering and client interfacing.
 
-- Specification analysis and documentation.
+- Create technical documentation and specifications.
 
 
 
 `May 2013 – July 2014`
 __Web Programmer__, Magna Sistemas, Sao Paulo - Brazil
 
-- Web software development and maintenance using ASP.NET, C#, NHibernate and Oracle.
+- Develop and maintain web software using ASP.NET, C#, NHibernate, and Oracle.
 
-- Requirement gathering and client interfacing.
+- Conduct requirement gathering and client interfacing.
 
 
 
 `July 2008 – November 2011`
 __Web Developer__, CPM Braxis Capgemini, Sao Paulo, Brazil
 
-- Development of web software using ASP.NET, C# and Entity framework and Oracle.
+- Develop web software using ASP.NET, C#, Entity Framework, and Oracle.
 
-- Report creation using Crystal Reports.
+- Create reports using Crystal Reports.
 
-- Requirement gathering and client interfacing.
-
-- Specification analysis and documentation.
-
-
-
-`September 2007 – July 2008`
-__Programmer__, EVOLUTI Technology and Service Ltda., Sao Paulo - Brazil
-
-- Web software development and maintenance utilising ASP, Javascript, XML and Microsoft SQL Server.
-
-- Development of a system that controls projects utilising ASP, Javascript and Microsoft SQL Server.
-
-- Software testing using test guides and documentation.
+- Conduct requirement gathering, client interfacing, and specification analysis.
 
 
 
