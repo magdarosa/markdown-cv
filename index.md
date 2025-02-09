@@ -26,7 +26,7 @@ Azure and AWS (Lambda, S3, Cognito, CloudFormation, CloudWatch, AppSync, CDK, Dy
 `Jan 2025 – Present`
 __Backend Tech Lead__, Smartpay Limited, Auckland, New Zealand
 
-- Lead backend development efforts for Smartpay's digital platform, ensuring scalability and performance.
+- Lead backend development efforts for Smartpay's digital platform.
 
 - Design, develop, and maintain backend applications using Node.js and AWS services.
 
