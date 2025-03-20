@@ -7,6 +7,7 @@ title: Magda Sharon Okumura Rosa
 <div id="webaddress">
 <a href="magda.sharon@gmail.com">magda.sharon@gmail.com</a>
 | +64 021 235 8724
+| https://www.linkedin.com/in/magdasharon
 </div>
 
 ## Skills
