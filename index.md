@@ -75,7 +75,7 @@ __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Aust
 
 
 `May 2013 – July 2014`
-__Web Programmer__, Magna Sistemas, Sao Paulo - Brazil
+__Web Programmer__, Magna Sistemas, Sao Paulo, Brazil
 
 - Develop and maintain web software using ASP.NET, C#, NHibernate, and Oracle.
 
