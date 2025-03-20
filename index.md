@@ -63,30 +63,8 @@ __Senior Backend Developer__, Roam Digital, Auckland, New Zealand
 - Serve as a member of the backend council, mentoring and recommending technologies and best practices.
 
 
-`November 2016 – July 2017`
-__Consultant__, Australian Pacific College, Sao Paulo, Brazil.
 
-- Develop web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
-
-- Resolve incidents and system issues in internal applications.
-
-- Conduct specification analysis and documentation.
-
-
-`April 2016 – November 2016`
-__Team Leader__, Australian Pacific College, Sydney, Australia.
-
-- Lead the development of web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
-
-- Conduct requirement gathering, client interfacing, and specification analysis.
-
-- Manage IT Helpdesk ticket progress and oversee external digital solution providers.
-
-- Handle IT team recruitment, including job descriptions, interviews, and candidate selection.
-
-
-
-`October 2014 – April 2016`
+`October 2014 – July 2017`
 __Full Stack .Net Software Developer__, Australian Pacific College, Sydney, Australia.
 
 - Develop web software using ASP.Net MVC 5, C#, WCF, Web API 2, CSS3, Angular, Microsoft SQL Server, SSRS, and Azure.
@@ -135,15 +113,6 @@ __Technical Course in Data Processing__, FITO Fundação Instituto Tecnológico 
 `July 2018 - July 2018`
 __AWS Technical Essentials__, Auckland, New Zealand
 
-`August 2008 – August 2008`
-__Net C#__, Xtraining Academy CPMBraxis - Sao Paulo  – Brazil
-
-`June 2008 – July 2008`
-__Java for Web Development__, Caelum - Sao Paulo  – Brazil
-
-` March 2008 – May 2008`
-__Java Programmer__, Impact Tecnologia - Sao Paulo  – Brazil
-
 
 
 ## Languages
@@ -151,8 +120,6 @@ __Java Programmer__, Impact Tecnologia - Sao Paulo  – Brazil
 __Portuguese__, Native
 
 __English__, Advanced
-
-__Spanish__, Basic
 
 
 
